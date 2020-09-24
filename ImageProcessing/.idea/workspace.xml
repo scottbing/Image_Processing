@@ -1,0 +1,281 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="289e526a-1720-4ad4-b55b-f3db31548257" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1hObe9MFcIvkJUDEZOsJaEyR9wm" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/venv" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/venv" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.SB_5410_Midterm_bk04">
+    <configuration name="SB_5410_Midterm" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="ImageProcessing" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/venv" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/venv/SB_5410_Midterm.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="SB_5410_Midterm_bk03" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="ImageProcessing" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/venv" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/venv/SB_5410_Midterm_bk03.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="SB_5410_Midterm_bk04" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="ImageProcessing" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/venv" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/venv/SB_5410_Midterm_bk04.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="midterm" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="ImageProcessing" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/venv" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/venv/midterm.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="redesign" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="ImageProcessing" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/venv" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/venv/redesign.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.SB_5410_Midterm_bk04" />
+        <item itemvalue="Python.SB_5410_Midterm" />
+        <item itemvalue="Python.midterm" />
+        <item itemvalue="Python.redesign" />
+        <item itemvalue="Python.SB_5410_Midterm_bk03" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="289e526a-1720-4ad4-b55b-f3db31548257" name="Default Changelist" comment="" />
+      <created>1599885177678</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1599885177678</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="512" y="181" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1600829272021">
+      <screen x="0" y="23" width="1920" height="991" />
+    </state>
+    <state x="512" y="181" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1920.991@0.23.1920.991" timestamp="1600829272021" />
+    <state x="735" y="262" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1600055167258">
+      <screen x="0" y="23" width="1920" height="1005" />
+    </state>
+    <state x="735" y="262" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.23.1920.1005@0.23.1920.1005" timestamp="1600055167258" />
+    <state width="1554" height="244" key="GridCell.Tab.0.bottom" timestamp="1600914591966">
+      <screen x="0" y="23" width="1920" height="994" />
+    </state>
+    <state width="1554" height="245" key="GridCell.Tab.0.bottom/0.23.1920.1001@0.23.1920.1001" timestamp="1600226278785" />
+    <state width="1554" height="245" key="GridCell.Tab.0.bottom/0.23.1920.1003@0.23.1920.1003" timestamp="1600053535379" />
+    <state width="1554" height="245" key="GridCell.Tab.0.bottom/0.23.1920.1004@0.23.1920.1004" timestamp="1600280022754" />
+    <state width="1554" height="245" key="GridCell.Tab.0.bottom/0.23.1920.1005@0.23.1920.1005" timestamp="1600278598633" />
+    <state width="1554" height="303" key="GridCell.Tab.0.bottom/0.23.1920.1006@0.23.1920.1006" timestamp="1599888342015" />
+    <state width="1554" height="244" key="GridCell.Tab.0.bottom/0.23.1920.991@0.23.1920.991" timestamp="1600913494907" />
+    <state width="1554" height="244" key="GridCell.Tab.0.bottom/0.23.1920.992@0.23.1920.992" timestamp="1600837817105" />
+    <state width="1554" height="244" key="GridCell.Tab.0.bottom/0.23.1920.994@0.23.1920.994" timestamp="1600914591966" />
+    <state width="1554" height="245" key="GridCell.Tab.0.bottom/0.23.1920.995@0.23.1920.995" timestamp="1600225959782" />
+    <state width="1554" height="245" key="GridCell.Tab.0.bottom/0.23.1920.996@0.23.1920.996" timestamp="1600235273072" />
+    <state width="1554" height="245" key="GridCell.Tab.0.bottom/0.23.1920.997@0.23.1920.997" timestamp="1600273000766" />
+    <state width="1554" height="244" key="GridCell.Tab.0.center" timestamp="1600914591965">
+      <screen x="0" y="23" width="1920" height="994" />
+    </state>
+    <state width="1554" height="245" key="GridCell.Tab.0.center/0.23.1920.1001@0.23.1920.1001" timestamp="1600226278784" />
+    <state width="1554" height="245" key="GridCell.Tab.0.center/0.23.1920.1003@0.23.1920.1003" timestamp="1600053535378" />
+    <state width="1554" height="245" key="GridCell.Tab.0.center/0.23.1920.1004@0.23.1920.1004" timestamp="1600280022754" />
+    <state width="1554" height="245" key="GridCell.Tab.0.center/0.23.1920.1005@0.23.1920.1005" timestamp="1600278598632" />
+    <state width="1554" height="303" key="GridCell.Tab.0.center/0.23.1920.1006@0.23.1920.1006" timestamp="1599888342014" />
+    <state width="1554" height="244" key="GridCell.Tab.0.center/0.23.1920.991@0.23.1920.991" timestamp="1600913494906" />
+    <state width="1554" height="244" key="GridCell.Tab.0.center/0.23.1920.992@0.23.1920.992" timestamp="1600837817104" />
+    <state width="1554" height="244" key="GridCell.Tab.0.center/0.23.1920.994@0.23.1920.994" timestamp="1600914591965" />
+    <state width="1554" height="245" key="GridCell.Tab.0.center/0.23.1920.995@0.23.1920.995" timestamp="1600225959781" />
+    <state width="1554" height="245" key="GridCell.Tab.0.center/0.23.1920.996@0.23.1920.996" timestamp="1600235273071" />
+    <state width="1554" height="245" key="GridCell.Tab.0.center/0.23.1920.997@0.23.1920.997" timestamp="1600273000766" />
+    <state width="1554" height="244" key="GridCell.Tab.0.left" timestamp="1600914591965">
+      <screen x="0" y="23" width="1920" height="994" />
+    </state>
+    <state width="1554" height="245" key="GridCell.Tab.0.left/0.23.1920.1001@0.23.1920.1001" timestamp="1600226278784" />
+    <state width="1554" height="245" key="GridCell.Tab.0.left/0.23.1920.1003@0.23.1920.1003" timestamp="1600053535378" />
+    <state width="1554" height="245" key="GridCell.Tab.0.left/0.23.1920.1004@0.23.1920.1004" timestamp="1600280022753" />
+    <state width="1554" height="245" key="GridCell.Tab.0.left/0.23.1920.1005@0.23.1920.1005" timestamp="1600278598631" />
+    <state width="1554" height="303" key="GridCell.Tab.0.left/0.23.1920.1006@0.23.1920.1006" timestamp="1599888342013" />
+    <state width="1554" height="244" key="GridCell.Tab.0.left/0.23.1920.991@0.23.1920.991" timestamp="1600913494906" />
+    <state width="1554" height="244" key="GridCell.Tab.0.left/0.23.1920.992@0.23.1920.992" timestamp="1600837817104" />
+    <state width="1554" height="244" key="GridCell.Tab.0.left/0.23.1920.994@0.23.1920.994" timestamp="1600914591965" />
+    <state width="1554" height="245" key="GridCell.Tab.0.left/0.23.1920.995@0.23.1920.995" timestamp="1600225959781" />
+    <state width="1554" height="245" key="GridCell.Tab.0.left/0.23.1920.996@0.23.1920.996" timestamp="1600235273071" />
+    <state width="1554" height="245" key="GridCell.Tab.0.left/0.23.1920.997@0.23.1920.997" timestamp="1600273000766" />
+    <state width="1554" height="244" key="GridCell.Tab.0.right" timestamp="1600914591966">
+      <screen x="0" y="23" width="1920" height="994" />
+    </state>
+    <state width="1554" height="245" key="GridCell.Tab.0.right/0.23.1920.1001@0.23.1920.1001" timestamp="1600226278785" />
+    <state width="1554" height="245" key="GridCell.Tab.0.right/0.23.1920.1003@0.23.1920.1003" timestamp="1600053535379" />
+    <state width="1554" height="245" key="GridCell.Tab.0.right/0.23.1920.1004@0.23.1920.1004" timestamp="1600280022754" />
+    <state width="1554" height="245" key="GridCell.Tab.0.right/0.23.1920.1005@0.23.1920.1005" timestamp="1600278598632" />
+    <state width="1554" height="303" key="GridCell.Tab.0.right/0.23.1920.1006@0.23.1920.1006" timestamp="1599888342014" />
+    <state width="1554" height="244" key="GridCell.Tab.0.right/0.23.1920.991@0.23.1920.991" timestamp="1600913494906" />
+    <state width="1554" height="244" key="GridCell.Tab.0.right/0.23.1920.992@0.23.1920.992" timestamp="1600837817105" />
+    <state width="1554" height="244" key="GridCell.Tab.0.right/0.23.1920.994@0.23.1920.994" timestamp="1600914591966" />
+    <state width="1554" height="245" key="GridCell.Tab.0.right/0.23.1920.995@0.23.1920.995" timestamp="1600225959782" />
+    <state width="1554" height="245" key="GridCell.Tab.0.right/0.23.1920.996@0.23.1920.996" timestamp="1600235273072" />
+    <state width="1554" height="245" key="GridCell.Tab.0.right/0.23.1920.997@0.23.1920.997" timestamp="1600273000766" />
+    <state width="1554" height="303" key="GridCell.Tab.1.bottom" timestamp="1600055731001">
+      <screen x="0" y="23" width="1920" height="1005" />
+    </state>
+    <state width="1554" height="303" key="GridCell.Tab.1.bottom/0.23.1920.1001@0.23.1920.1001" timestamp="1599933055794" />
+    <state width="1554" height="303" key="GridCell.Tab.1.bottom/0.23.1920.1002@0.23.1920.1002" timestamp="1599932678388" />
+    <state width="1554" height="303" key="GridCell.Tab.1.bottom/0.23.1920.1004@0.23.1920.1004" timestamp="1600054398426" />
+    <state width="1554" height="303" key="GridCell.Tab.1.bottom/0.23.1920.1005@0.23.1920.1005" timestamp="1600055731001" />
+    <state width="1554" height="303" key="GridCell.Tab.1.bottom/0.23.1920.1006@0.23.1920.1006" timestamp="1599888342017" />
+    <state width="1554" height="303" key="GridCell.Tab.1.bottom/0.23.1920.996@0.23.1920.996" timestamp="1599932218666" />
+    <state width="1554" height="303" key="GridCell.Tab.1.bottom/0.23.1920.997@0.23.1920.997" timestamp="1599933918736" />
+    <state width="1554" height="303" key="GridCell.Tab.1.center" timestamp="1600055731000">
+      <screen x="0" y="23" width="1920" height="1005" />
+    </state>
+    <state width="1554" height="303" key="GridCell.Tab.1.center/0.23.1920.1001@0.23.1920.1001" timestamp="1599933055794" />
+    <state width="1554" height="303" key="GridCell.Tab.1.center/0.23.1920.1002@0.23.1920.1002" timestamp="1599932678387" />
+    <state width="1554" height="303" key="GridCell.Tab.1.center/0.23.1920.1004@0.23.1920.1004" timestamp="1600054398425" />
+    <state width="1554" height="303" key="GridCell.Tab.1.center/0.23.1920.1005@0.23.1920.1005" timestamp="1600055731000" />
+    <state width="1554" height="303" key="GridCell.Tab.1.center/0.23.1920.1006@0.23.1920.1006" timestamp="1599888342016" />
+    <state width="1554" height="303" key="GridCell.Tab.1.center/0.23.1920.996@0.23.1920.996" timestamp="1599932218666" />
+    <state width="1554" height="303" key="GridCell.Tab.1.center/0.23.1920.997@0.23.1920.997" timestamp="1599933918735" />
+    <state width="1554" height="303" key="GridCell.Tab.1.left" timestamp="1600055731000">
+      <screen x="0" y="23" width="1920" height="1005" />
+    </state>
+    <state width="1554" height="303" key="GridCell.Tab.1.left/0.23.1920.1001@0.23.1920.1001" timestamp="1599933055793" />
+    <state width="1554" height="303" key="GridCell.Tab.1.left/0.23.1920.1002@0.23.1920.1002" timestamp="1599932678386" />
+    <state width="1554" height="303" key="GridCell.Tab.1.left/0.23.1920.1004@0.23.1920.1004" timestamp="1600054398425" />
+    <state width="1554" height="303" key="GridCell.Tab.1.left/0.23.1920.1005@0.23.1920.1005" timestamp="1600055731000" />
+    <state width="1554" height="303" key="GridCell.Tab.1.left/0.23.1920.1006@0.23.1920.1006" timestamp="1599888342015" />
+    <state width="1554" height="303" key="GridCell.Tab.1.left/0.23.1920.996@0.23.1920.996" timestamp="1599932218666" />
+    <state width="1554" height="303" key="GridCell.Tab.1.left/0.23.1920.997@0.23.1920.997" timestamp="1599933918735" />
+    <state width="1554" height="303" key="GridCell.Tab.1.right" timestamp="1600055731001">
+      <screen x="0" y="23" width="1920" height="1005" />
+    </state>
+    <state width="1554" height="303" key="GridCell.Tab.1.right/0.23.1920.1001@0.23.1920.1001" timestamp="1599933055794" />
+    <state width="1554" height="303" key="GridCell.Tab.1.right/0.23.1920.1002@0.23.1920.1002" timestamp="1599932678387" />
+    <state width="1554" height="303" key="GridCell.Tab.1.right/0.23.1920.1004@0.23.1920.1004" timestamp="1600054398425" />
+    <state width="1554" height="303" key="GridCell.Tab.1.right/0.23.1920.1005@0.23.1920.1005" timestamp="1600055731001" />
+    <state width="1554" height="303" key="GridCell.Tab.1.right/0.23.1920.1006@0.23.1920.1006" timestamp="1599888342016" />
+    <state width="1554" height="303" key="GridCell.Tab.1.right/0.23.1920.996@0.23.1920.996" timestamp="1599932218666" />
+    <state width="1554" height="303" key="GridCell.Tab.1.right/0.23.1920.997@0.23.1920.997" timestamp="1599933918736" />
+    <state x="556" y="158" key="SettingsEditor" timestamp="1600830363664">
+      <screen x="0" y="23" width="1920" height="992" />
+    </state>
+    <state x="556" y="158" key="SettingsEditor/0.23.1920.992@0.23.1920.992" timestamp="1600830363664" />
+    <state x="825" y="317" key="com.intellij.ide.util.TipDialog" timestamp="1600034981875">
+      <screen x="0" y="23" width="1920" height="1004" />
+    </state>
+    <state x="825" y="316" key="com.intellij.ide.util.TipDialog/0.23.1920.1001@0.23.1920.1001" timestamp="1599967875064" />
+    <state x="825" y="317" key="com.intellij.ide.util.TipDialog/0.23.1920.1004@0.23.1920.1004" timestamp="1600034981875" />
+    <state x="703" y="227" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1599932639742">
+      <screen x="0" y="23" width="1920" height="1001" />
+    </state>
+    <state x="703" y="227" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.23.1920.1001@0.23.1920.1001" timestamp="1599932639742" />
+  </component>
+</project>
